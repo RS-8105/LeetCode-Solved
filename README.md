@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
 ## Sorting
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1143-longest-common-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
