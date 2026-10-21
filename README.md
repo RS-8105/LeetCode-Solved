@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RS-8105/LeetCode-Solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/RS-8105/LeetCode-Solved/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
 | ------- |
