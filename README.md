@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/RS-8105/LeetCode-Solved/tree/master/0072-edit-distance) |
+| [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1092-shortest-common-supersequence) |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
