@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/RS-8105/LeetCode-Solved/tree/master/0072-edit-distance) |
 | [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1092-shortest-common-supersequence) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
