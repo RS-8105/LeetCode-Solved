@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RS-8105/LeetCode-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RS-8105/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -77,9 +79,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
