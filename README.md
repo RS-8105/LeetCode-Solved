@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RS-8105/LeetCode-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RS-8105/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
