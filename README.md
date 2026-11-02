@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RS-8105/LeetCode-Solved/tree/master/0036-valid-sudoku) |
 | [0300-longest-increasing-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RS-8105/LeetCode-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RS-8105/LeetCode-Solved/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/RS-8105/LeetCode-Solved/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/RS-8105/LeetCode-Solved/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
