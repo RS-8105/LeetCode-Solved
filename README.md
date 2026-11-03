@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RS-8105/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RS-8105/LeetCode-Solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RS-8105/LeetCode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RS-8105/LeetCode-Solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
