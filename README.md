@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RS-8105/LeetCode-Solved/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/RS-8105/LeetCode-Solved/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0300-longest-increasing-subsequence) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RS-8105/LeetCode-Solved/tree/master/0011-container-with-most-water) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RS-8105/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Binary Search
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RS-8105/LeetCode-Solved/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
