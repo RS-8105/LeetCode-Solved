@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/RS-8105/LeetCode-Solved/tree/master/2747-count-zero-request-servers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RS-8105/LeetCode-Solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RS-8105/LeetCode-Solved/tree/master/0011-container-with-most-water) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RS-8105/LeetCode-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
