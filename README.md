@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RS-8105/LeetCode-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/RS-8105/LeetCode-Solved/tree/master/2747-count-zero-request-servers) |
+| [3693-climbing-stairs-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RS-8105/LeetCode-Solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RS-8105/LeetCode-Solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3693-climbing-stairs-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
