@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RS-8105/LeetCode-Solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RS-8105/LeetCode-Solved/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RS-8105/LeetCode-Solved/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/RS-8105/LeetCode-Solved/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0415-add-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RS-8105/LeetCode-Solved/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
