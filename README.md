@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RS-8105/LeetCode-Solved/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RS-8105/LeetCode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RS-8105/LeetCode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RS-8105/LeetCode-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RS-8105/LeetCode-Solved/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RS-8105/LeetCode-Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RS-8105/LeetCode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RS-8105/LeetCode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RS-8105/LeetCode-Solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RS-8105/LeetCode-Solved/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -154,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/RS-8105/LeetCode-Solved/tree/master/2747-count-zero-request-servers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RS-8105/LeetCode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RS-8105/LeetCode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RS-8105/LeetCode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
