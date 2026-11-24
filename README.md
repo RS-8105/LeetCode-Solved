@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RS-8105/LeetCode-Solved/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/RS-8105/LeetCode-Solved/tree/master/0143-reorder-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RS-8105/LeetCode-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/RS-8105/LeetCode-Solved/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sliding Window
@@ -176,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RS-8105/LeetCode-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/RS-8105/LeetCode-Solved/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/RS-8105/LeetCode-Solved/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/RS-8105/LeetCode-Solved/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
